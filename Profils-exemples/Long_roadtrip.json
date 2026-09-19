@@ -1,0 +1,38 @@
+{
+  "destination": "",
+  "trip": "Long_roadtrip",
+  "sources": [],
+  "start": "",
+  "end": "",
+  "timezone": "Europe/Zurich",
+  "allow_mtime": false,
+  "verify": true,
+  "day_labels": {},
+  "version": 2,
+  "exiftool_path": "",
+  "exiftool_enabled": true,
+  "exclude_raw": false,
+  "region": "",
+  "devices": {
+    "DJI Mini 4 Pro": true,
+    "DJI Air 3": false,
+    "DJI Neo 2": true,
+    "Insta360 X5": true,
+    "Insta360 Ace Pro 2": false,
+    "Pixel 11": true,
+    "Pixel 8 Pro": true,
+    "Garmin": true
+  },
+  "software": {
+    "Geo-Log": true,
+    "Insta360 Studio": true,
+    "LosslessCut": true
+  },
+  "social": {
+    "WhatsApp": true,
+    "Instagram": true,
+    "Facebook": true
+  },
+  "mirror_facebook": true,
+  "selection": true
+}
